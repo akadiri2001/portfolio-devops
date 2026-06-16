@@ -26,7 +26,7 @@ terraform plan
 terraform apply
 ```
 
-## Destroy (important — évite les frais AWS)
+## Destroy (important — avoid AWS charges)
 ```bash
 cd infra/
 terraform destroy
