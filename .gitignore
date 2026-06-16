@@ -1,0 +1,15 @@
+# Terraform
+infra/.terraform/
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/*.tfvars
+infra/crash.log
+
+# Credentials (ne jamais committer)
+.env
+*.pem
+*.key
+
+# OS
+.DS_Store
