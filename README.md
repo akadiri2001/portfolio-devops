@@ -10,7 +10,8 @@
 - **GitHub Actions** — CI/CD pipeline
 
 ## Architecture
-_Schéma à venir_
+<img width="256" height="419" alt="image" src="https://github.com/user-attachments/assets/5eaa745b-a10f-45a5-af9b-47155ab1f053" />
+
 
 ## Quick start
 ```bash
