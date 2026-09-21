@@ -1,6 +1,6 @@
 # Portfolio DevOps Infrastructure
 
-[Dernier déploiement réussi](https://github.com/akadiri2001/portfolio-devops/actions/runs/35649744202)
+[![Deploy](https://github.com/akadiri2001/portfolio-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/akadiri2001/portfolio-devops/actions/workflows/deploy.yml)
 
 > Containerization, Infrastructure as Code and CI/CD pipeline for my personal portfolio.
 > A push to `main` builds the image, pushes it to a private registry and rolls out a new
